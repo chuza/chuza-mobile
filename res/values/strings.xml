@@ -4,5 +4,9 @@
     <string name="app_name">Chuza</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="todo"></string>
+    <string name="camara"></string>
+    <string name="sair"></string>
+    <string name="rechuza"></string>
 
 </resources>
